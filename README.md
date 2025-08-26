@@ -1,20 +1,20 @@
-Gerador de Senha Aleatória
+🔑 Gerador de Senha Aleatória
 
-Descrição
+📌 Descrição
 
-Este é um programa simples em Python que gera senhas aleatórias com base na quantidade de caracteres escolhida pelo usuário. Ele utiliza letras maiúsculas, minúsculas, números e símbolos para criar senhas seguras.
+Este é um programa simples em Python que gera senhas aleatórias com base na quantidade de caracteres escolhida pelo usuário.Ele utiliza letras maiúsculas, minúsculas, números e símbolos para criar senhas seguras e difíceis de adivinhar.
 
-Funcionalidades
+🚀 Funcionalidades
 
-Permite ao usuário escolher o tamanho da senha (mínimo de 8 caracteres);
+Escolha do tamanho da senha (mínimo de 8 caracteres).
 
-Gera senhas aleatórias combinando diferentes tipos de caracteres;
+Geração de senhas seguras combinando diferentes tipos de caracteres.
 
-Valida a entrada do usuário para evitar erros;
+Validação da entrada do usuário para evitar erros.
 
-Exibe a senha gerada na tela.
+Exibição da senha gerada diretamente no terminal.
 
-Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
 
 Python 3
 
@@ -22,15 +22,17 @@ Biblioteca random
 
 Biblioteca string
 
-Como Usar
+▶️ Como Usar
 
-Execute o script Python.
+Execute o script Python:
+
+python gerador_de_senha.py
 
 Insira a quantidade de caracteres desejados (mínimo 8).
 
-O programa gerará e exibirá a senha aleatória.
+O programa exibirá sua nova senha aleatória.
 
-Exemplo de Uso
+📂 Exemplo de Uso
 
 $ python gerador_de_senha.py
 ----------------------------------------
@@ -41,6 +43,7 @@ $ python gerador_de_senha.py
 Quantos caracteres você quer na sua senha? 12
 Sua senha gerada: A3!mXz9@qP$6
 
-Contribuições
+🤝 Contribuições
 
-Sinta-se à vontade para contribuir com melhorias, relatando bugs ou sugerindo novas funcionalidades!
+Contribuições são bem-vindas!Sinta-se à vontade para sugerir melhorias, relatar bugs ou enviar novas funcionalidades via Pull Request.
+
